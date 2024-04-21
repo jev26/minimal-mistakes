@@ -127,6 +127,9 @@ Je me réjouis de partager cette aventure avec vous 🥾"
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contact@montagn-art.ch"s
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=61553699202260"
