@@ -10,3 +10,17 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: Aquarelle
+    children:
+      - title: "Rando aquarelle"
+        url: https://mmistakes.github.io/minimal-mistakes/about/
+      - title: "Portfolio"
+        url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: Programme
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: Galerie
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: Info
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: Contact
+    url: https://mmistakes.github.io/minimal-mistakes/about/
