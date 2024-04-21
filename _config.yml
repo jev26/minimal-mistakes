@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Montagn'Art-3"
+title                    : "Montagn'Art-4"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TV"
@@ -119,10 +119,10 @@ Je me réjouis de partager cette aventure avec vous 🥾"
       url: "mailto:contact@montagn-art.ch"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/montagnart.ch"
+      url: "https://instagram.com/montagnart.ch"
 
 # Site Footer
 footer:
