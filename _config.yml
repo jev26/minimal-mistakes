@@ -23,8 +23,8 @@ name                     : "TV"
 description              : "An amazing website."
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -58,7 +58,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Je m'appelle Tessy Veillard, je suis accompagnatrice en montagne en fin de formation. J'ai créé Montagn'Art pour vous partager ce nouveau défi professionnel qui me tient à cœur 💚
 
 Vous trouverez ici toutes les informations sur mes futures randonnées, trek et autres activités que je proposerai.
@@ -122,7 +122,7 @@ Je me réjouis de partager cette aventure avec vous 🥾"
       # url: "https://facebook.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/montagnart.ch"
+      #url: "https://instagram.com/montagnart.ch"
 
 # Site Footer
 footer:
