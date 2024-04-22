@@ -25,8 +25,4 @@ main:
   - title: Contact
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/01-quick-start-guide/
-      - title: "Structure"
-        url: /docs/02-structure/
+    url: /docs/01-quick-start-guide/
