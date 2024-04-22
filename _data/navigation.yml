@@ -25,4 +25,4 @@ main:
   - title: Contact
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: Getting Started
-    url: /_docs/01-quick-start-guide/
+    url: /_docs/01-quick-start-guide.md/
