@@ -15,7 +15,7 @@ main:
       - title: "Rando aquarelle"
         url: https://mmistakes.github.io/minimal-mistakes/about/
       - title: "Portfolio"
-        url: https://mmistakes.github.io/minimal-mistakes/about/
+        url: /blob/master/_layouts/tags.html
   - title: Programme
     url: /_layouts/tag.html
   - title: Galerie
