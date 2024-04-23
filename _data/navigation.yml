@@ -19,10 +19,10 @@ main:
   - title: Programme
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: Galerie
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /_layouts
   - title: Info
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /tag
   - title: Contact
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /tag.html
   - title: Getting Started
     url: ../_docs/01-quick-start-guide.md/
