@@ -17,7 +17,7 @@ main:
       - title: "Portfolio"
         url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: Programme
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /_layouts/tag.html
   - title: Galerie
     url: /_layouts
   - title: Info
