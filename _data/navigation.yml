@@ -19,7 +19,7 @@ main:
   - title: Programme
     url: /_layouts/tag.html
   - title: Galerie
-    url: /_layouts
+    url: /blob/master/_layouts/tags.html
   - title: Info
     url: /tag
   - title: Contact
