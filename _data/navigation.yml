@@ -21,8 +21,8 @@ main:
   - title: Galerie
     url: /blob/master/_layouts/tags.html
   - title: Info
-    url: /tag
+    url: /_layouts/tag
   - title: Contact
-    url: /tag.html
+    url: /_layouts
   - title: Getting Started
     url: ../_docs/01-quick-start-guide.md/
