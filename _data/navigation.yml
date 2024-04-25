@@ -19,10 +19,10 @@ main:
   - title: Programme
     url: /_layouts/tag.html
   - title: Galerie
-    url: /README
+    url: /README/
   - title: Info
-    url: /tags
+    url: /tags/
   - title: Contact
-    url: /_layouts
+    url: /_layouts/
   - title: Getting Started
     url: ../_docs/01-quick-start-guide.md/
