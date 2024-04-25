@@ -19,9 +19,9 @@ main:
   - title: Programme
     url: /_layouts/tag.html
   - title: Galerie
-    url: /blob/master/_layouts/tags.html
+    url: /README
   - title: Info
-    url: /tags.html
+    url: /tags
   - title: Contact
     url: /_layouts
   - title: Getting Started
