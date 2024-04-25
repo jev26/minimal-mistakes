@@ -17,17 +17,13 @@ main:
       - title: "Portfolio"
         url: /blob/master/_layouts/tags.html
   - title: Programme
-    url: /_pages/tag/
+    url: /tag/
   - title: Galerie
     url: /README/
   - title: Info
-    url: /tag/
+    url: /lorem-ipsum/
   - title: Contact
     url: /_pages/
-  - title: Getting Started
-    url: ../_docs/01-quick-start-guide.md/
-  - title: "About"
-    url: /lorem-ipsum/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"
