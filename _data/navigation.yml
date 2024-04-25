@@ -26,8 +26,6 @@ main:
     url: /_pages/
   - title: Getting Started
     url: ../_docs/01-quick-start-guide.md/
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
   - title: "Sample Posts"
