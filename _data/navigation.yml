@@ -17,12 +17,12 @@ main:
       - title: "Portfolio"
         url: /blob/master/_layouts/tags.html
   - title: Programme
-    url: /_layouts/tag.html
+    url: /_pages/tag.html
   - title: Galerie
     url: /README/
   - title: Info
-    url: /tags/
+    url: /tag/
   - title: Contact
-    url: /_layouts/
+    url: /_pages/
   - title: Getting Started
     url: ../_docs/01-quick-start-guide.md/
