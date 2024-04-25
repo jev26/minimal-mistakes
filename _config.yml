@@ -28,9 +28,6 @@ logo                     : "/assets/images/logo.png" # path of logo image to dis
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-reCaptcha:
-  siteKey                :
-  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
