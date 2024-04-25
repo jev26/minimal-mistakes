@@ -6,6 +6,12 @@ layout: archive
 
 <img src= 'assets/images/flu-embed.jpg'>
 
+Bienvenue dans l'univers de Montagn'Art!
+Vous trouverez ici les différentes activités que je propose, qui est Montagn'Art ainsi que d'autres informations utiles.
+Je vous souhaite une bonne visite!
+
+<h2>{{ Présentation }}</h2>
+
 Je m'appelle Tessy Veillard, je suis accompagnatrice en montagne en fin de formation. J'ai créé Montagn'Art pour vous partager ce nouveau défi professionnel qui me tient à cœur 💚
 
 Vous trouverez ici toutes les informations sur mes futures randonnées, trek et autres activités que je proposerai.
@@ -13,20 +19,10 @@ Je vous partagerai aussi des astuces, idées et autres concernant la montagne, l
 
 Je me réjouis de partager cette aventure avec vous 🥾
 
+<h2>{{ Montagn'Art }}</h2>
 
-<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+Le nom Montagn'Art ...
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+<h2>{{ Le concept de Rando Aquarelle }}</h2>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
+Je pratique ...
