@@ -17,7 +17,7 @@ main:
       - title: "Portfolio"
         url: /blob/master/_layouts/tags.html
   - title: Programme
-    url: /_pages/tag.html
+    url: /_pages/tag/
   - title: Galerie
     url: /README/
   - title: Info
@@ -26,3 +26,13 @@ main:
     url: /_pages/
   - title: Getting Started
     url: ../_docs/01-quick-start-guide.md/
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Sample Posts"
+    url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
