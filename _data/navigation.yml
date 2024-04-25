@@ -10,6 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: Accueil
+    url:
   - title: Aquarelle
     children:
       - title: "Rando aquarelle"
@@ -18,15 +20,17 @@ main:
         url: /blob/master/_layouts/tags.html
   - title: Programme
     url: /tag/
+  - title: Randos
+    url:
   - title: Galerie
-    url: /README/
-  - title: Info
     url: /lorem-ipsum/
+  - title: Infos
+    url: /terms/
   - title: Contact
     url: /_pages/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+ # - title: "Sample Posts"
+ #   url: /year-archive/
+ # - title: "Sample Collections"
+ #   url: /collection-archive/
+ # - title: "Terms &amp; Privacy Policy"
+ #   url: /terms/
