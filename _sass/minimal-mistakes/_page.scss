@@ -180,6 +180,7 @@ body {
   position: relative;
   margin-bottom: 2em;
   margin: 0;
+  padding: 0;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
