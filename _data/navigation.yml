@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: Accueil
-    url:
+    url: "/minimal-mistakes/_layouts/home/"
   - title: Aquarelle
     children:
       - title: "Rando aquarelle"
@@ -21,13 +21,13 @@ main:
   - title: Programme
     url: /tag/
   - title: Randos
-    url:
+    url: /lorem-ipsum/
   - title: Galerie
     url: /lorem-ipsum/
   - title: Infos
     url: /terms/
   - title: Contact
-    url: /_pages/
+    url: /lorem-ipsum/
  # - title: "Sample Posts"
  #   url: /year-archive/
  # - title: "Sample Collections"
