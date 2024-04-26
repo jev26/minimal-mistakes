@@ -10,8 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: Accueil
-    url: "/minimal-mistakes/_layouts/home/"
+  #- title: Accueil
+  #  url: "/minimal-mistakes/_layouts/home/"
   - title: Aquarelle
     children:
       - title: "Rando aquarelle"
